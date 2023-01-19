@@ -278,7 +278,7 @@ Edit the text to match who can attend the workshop. For instance:
   <a href="https://docs.google.com/forms/d/e/1FAIpQLScwfgNS1LIXn8iMSoOxcotpsx_CRJg96g6qc-UdnQcjYWH2cw/viewform?usp=pp_url">
     <button type="button" class="btn btn-info">Register for this workshop</button>
   </a>
-  {% end comment %}
+  {% endcomment %}
   Registration for this workshop is not open yet.
 </p>
 
