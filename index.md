@@ -31,6 +31,15 @@ double quotation marks around the value, unless specified otherwise.
 And run 'make workshop-check' *before* committing to make sure that changes are good.
 {% endcomment %}
 
+This course aims to teach basic lab skills for research computing. It is a hands-on training that covers the core skills needed to be productive in a small research team. Short tutorials alternate with practical exercises, and all instruction is done via live coding. This workshop is intended for people who have no to little knowledge about the tools that are introduced.
+
+The workshop will cover the following lessons: 
+
+  - Automating tasks with the Unix Shell
+  - Programming with Python
+  - Version Control with Git
+
+It is possible to register for one of the two days of the workshop only. The first day will cover the lessons about the Unix Shell and Git. The second day will cover the lesson on Python.
 
 {% comment %}
 Check DC curriculum
@@ -256,12 +265,22 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
+{% endcomment %}
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is primarily intended for the members of the Karlsruhe Institute of Technology, and they will be prioritized for registration until March 10.
+    Employees and students from other German universities may apply after this date.
 </p>
-{% endcomment %}
+
+<p class="text-center">
+  {% comment %}
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLScwfgNS1LIXn8iMSoOxcotpsx_CRJg96g6qc-UdnQcjYWH2cw/viewform?usp=pp_url">
+    <button type="button" class="btn btn-info">Register for this workshop</button>
+  </a>
+  {% end comment %}
+  Registration for this workshop is not open yet.
+</p>
 
 <hr/>
 
