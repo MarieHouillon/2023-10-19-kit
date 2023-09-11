@@ -39,7 +39,9 @@ The workshop will cover the following lessons:
   - Programming with Python
   - Version Control with Git
 
+{% comment %}
 It is possible to register for one of the two days of the workshop only. The first day will cover the lessons about the Unix Shell and Git. The second day will cover the lesson on Python.
+{% endcomment %}
 
 {% comment %}
 Check DC curriculum
