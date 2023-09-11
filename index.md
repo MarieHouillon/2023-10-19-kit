@@ -275,13 +275,16 @@ Edit the text to match who can attend the workshop. For instance:
     Employees and students from other German universities may apply after this date.
 </p>
 
+
 <p class="text-center">
+  {% comment %}
   <a href="https://forms.gle/x2Kixkt1nFtPkwQ38">
     <button type="button" class="btn btn-info">Register for this workshop</button>
   </a>
-  {% comment %}
-  Registration for this workshop is closed.
   {% endcomment %}
+  
+  Registration for this workshop is not open yet.
+  
 </p>
 
 <hr/>
