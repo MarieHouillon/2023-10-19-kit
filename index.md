@@ -278,7 +278,7 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p class="text-center">
   {% comment %}
-  <a href="https://forms.gle/x2Kixkt1nFtPkwQ38">
+  <a href="">
     <button type="button" class="btn btn-info">Register for this workshop</button>
   </a>
   {% endcomment %}
