@@ -279,10 +279,6 @@ Edit the text to match who can attend the workshop. For instance:
   <a href="https://indico.scc.kit.edu/event/3801/">
     <button type="button" class="btn btn-info">Register for this workshop</button>
   </a>
-  
-  
-  Registration for this workshop is not open yet.
-  
 </p>
 
 <hr/>
