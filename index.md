@@ -271,17 +271,15 @@ Edit the text to match who can attend the workshop. For instance:
 
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is primarily intended for the members of the Karlsruhe Institute of Technology, and they will be prioritized for registration until March 10.
-    Employees and students from other German universities may apply after this date.
+    This workshop is primarily intended for the members of the Karlsruhe Institute of Technology.
 </p>
 
 
 <p class="text-center">
-  {% comment %}
-  <a href="">
+  <a href="https://indico.scc.kit.edu/event/3801/">
     <button type="button" class="btn btn-info">Register for this workshop</button>
   </a>
-  {% endcomment %}
+  
   
   Registration for this workshop is not open yet.
   
